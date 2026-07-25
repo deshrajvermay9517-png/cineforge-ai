@@ -108,7 +108,7 @@ export default function App() {
 
         {/* About Project Modal */}
         {aboutOpen && (
-          <AboutModal onClose={() => setAboutOpen(false)} />
+          <AboutModal  onClose={() => setAboutOpen(false)} />
         )}
 
         {/* Credits Modal */}
