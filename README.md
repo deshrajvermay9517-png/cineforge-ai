@@ -69,7 +69,7 @@ Pre-visualization (pre-vis) is the critical bridge between writing a screenplay 
 
 ## Live App Links
 
-- **Live Application Link**: [MatchMind AI Live Demo](https://matchmind-ai-deshraj.vercel.app)
+- **Live Application Link**: https://deshrajvermay9517-png.github.io/cineforge-ai/
 
 ---
 
